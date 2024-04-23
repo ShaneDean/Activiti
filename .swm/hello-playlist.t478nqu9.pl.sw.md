@@ -2,11 +2,12 @@
 id: t478nqu9
 title: hello-playlist
 file_version: 1.1.3
-app_version: 1.25.7
+app_version: 1.26.3
 ---
 
 <!-- Steps - Do not remove this comment -->
 1. [playlist-home-page](playlist-home-page.m1vtsc2e.sw.md)
+2. [step2](step2.mdah3z36.sw.md)
 
 
 <br/>
